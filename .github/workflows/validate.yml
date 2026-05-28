@@ -1,0 +1,40 @@
+name: Validate Locales
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Validate JSON syntax
+        run: |
+          for f in locales/**/*.json; do
+            echo "Checking $f..."
+            python3 -m json.tool "$f" > /dev/null
+          done
+
+      - name: Check for missing keys against English baseline
+        run: |
+          python3 - <<'EOF'
+          import json, sys, pathlib
+
+          baseline = json.loads(pathlib.Path("locales/en/en.json").read_text())
+          failed = False
+
+          for path in pathlib.Path("locales").rglob("*.json"):
+            if path.parts[1] == "en":
+              continue
+            data = json.loads(path.read_text())
+            missing = [k for k in baseline if k not in data]
+            if missing:
+              print(f"MISSING keys in {path}: {missing[:10]}{'...' if len(missing) > 10 else ''}")
+              failed = True
+
+          sys.exit(1 if failed else 0)
+          EOF
