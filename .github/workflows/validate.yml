@@ -10,12 +10,16 @@ on:
 jobs:
   validate:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
 
       - name: Validate JSON syntax
+        shell: bash
         run: |
-          find locales -name "*.json" -type f | while read -r f; do
+          shopt -s globstar nullglob
+
+          for f in **/*.json; do
             echo "Checking $f..."
             python3 -m json.tool "$f" > /dev/null
           done
@@ -25,14 +29,17 @@ jobs:
           python3 - <<'EOF'
           import json, sys, pathlib
 
-          baseline = json.loads(pathlib.Path("locales/en/en.json").read_text())
+          baseline = json.loads(pathlib.Path("en/en.json").read_text())
           failed = False
 
-          for path in pathlib.Path("locales").rglob("*.json"):
-            if path.parts[1] == "en":
+          for path in pathlib.Path(".").rglob("*.json"):
+            if path.as_posix() == "en/en.json":
               continue
+
             data = json.loads(path.read_text())
+
             missing = [k for k in baseline if k not in data]
+
             if missing:
               print(f"MISSING keys in {path}: {missing[:10]}{'...' if len(missing) > 10 else ''}")
               failed = True
