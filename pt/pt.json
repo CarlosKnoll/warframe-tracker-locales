@@ -1130,6 +1130,7 @@
   "market.loading": "Buscando no Warframe Market...",
   "market.placeholder": "Busque um item para ver ofertas de compra/venda",
   "market.noResults": "Nenhuma oferta ativa encontrada para este item",
+  "market.noBuyOrders": "Nenhuma oferta de compra ativa encontrada para este item",
   "market.error": "Falha ao buscar dados do mercado",
   "market.buy": "Ofertas de Compra",
   "market.sell": "Ofertas de Venda",
