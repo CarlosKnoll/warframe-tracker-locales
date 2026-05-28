@@ -4,7 +4,8 @@ on:
   push:
     branches: [main]
     paths:
-      - 'locales/**'
+      - '**/*.json'
+  workflow_dispatch:
 
 jobs:
   release:
