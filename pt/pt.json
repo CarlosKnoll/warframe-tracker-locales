@@ -1192,5 +1192,17 @@
   "sync.conflict.summary.tasks": "{{n}} tarefas",
   "sync.conflict.summary.drop": "{{n}} drop personalizado",
   "sync.conflict.summary.drops": "{{n}} drops personalizados",
-  "sync.conflict.summary.empty": "Sem dados"
+  "sync.conflict.summary.empty": "Sem dados",
+
+  "mode.mods":                "Mods",
+  "mod.category.aura":        "Aura",
+  "mod.category.parazon":     "Parazon",
+ 
+  "mod.polarity.madurai":     "Madurai",
+  "mod.polarity.vazarin":     "Vazarin",
+  "mod.polarity.naramon":     "Naramon",
+  "mod.polarity.zenurik":     "Zenurik",
+  "mod.polarity.unairu":      "Unairu",
+  "mod.polarity.penjaga":     "Penjaga",
+  "mod.polarity.umbra":       "Umbra",
 }
