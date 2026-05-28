@@ -14,7 +14,7 @@ jobs:
 
       - name: Validate JSON syntax
         run: |
-          for f in locales/**/*.json; do
+          find locales -name "*.json" -type f | while read -r f; do
             echo "Checking $f..."
             python3 -m json.tool "$f" > /dev/null
           done
