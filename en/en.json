@@ -294,6 +294,7 @@
   "market.loading": "Searching Warframe Market...",
   "market.placeholder": "Search for an item to see buy/sell orders",
   "market.noResults": "No active orders found for this item",
+  "market.noBuyOrders": "No active buy orders found for this item",
   "market.error": "Failed to fetch market data",
   "market.buy": "Buy Orders",
   "market.sell": "Sell Orders",
