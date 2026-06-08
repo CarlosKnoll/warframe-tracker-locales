@@ -886,10 +886,10 @@
   "tasks.calendar.item.Arcane Enhancements: Double Pack": "Aprimoramentos Arcanos (Pacote Duplo)",
   "tasks.calendar.item.Amber Archon Shard": "Fragmento de Arconte Âmbar",
   "tasks.calendar.item.Crimson Archon Shard": "Fragmento de Arconte Carmesim",
-  "tasks.calendar.item.Azure Archon Shard": "Fragmento de Arconte Azul",
-  "tasks.calendar.item.Topaz Archon Shard": "Fragmento de Arconte Topázio",
-  "tasks.calendar.item.Violet Archon Shard": "Fragmento de Arconte Violeta",
-  "tasks.calendar.item.Emerald Archon Shard": "Fragmento de Arconte Esmeralda",
+  "tasks.calendar.item.Azure Archon Shard": "Fragmento de Arconte (Azul)",
+  "tasks.calendar.item.Topaz Archon Shard": "Fragmento de Arconte (Topázio)",
+  "tasks.calendar.item.Violet Archon Shard": "Fragmento de Arconte (Violeta)",
+  "tasks.calendar.item.Emerald Archon Shard": "Fragmento de Arconte (Esmeralda)",
   "tasks.calendar.item.Forma Blueprint": "Forma (Diagrama)",
   "tasks.calendar.item.Aura Forma Blueprint": "Forma Aura (Diagrama)",
   "tasks.calendar.item.Omni Forma Blueprint": "Forma Ômnica (Diagrama)",
@@ -910,6 +910,7 @@
   "tasks.calendar.item.3 Day Mod Drop Chance Booster": "Bônus de Chance de Obtenção de Mods (3 dias)",
   "tasks.calendar.item.3 Day Resource Drop Chance Booster": "Bônus de Chance de Drop de Recurso (3 dias)",
   "tasks.calendar.item.Vosfor Cache": "Depósito de Vosfor",
+  "tasks.calendar.item.Archon Crystal Violet": "Fragmento de Arconte (Violeta)",
 
   "tasks.archimedea.modifiers.label": "Modificadores:",
 
