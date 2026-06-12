@@ -1208,5 +1208,62 @@
   "mod.polarity.zenurik":     "Zenurik",
   "mod.polarity.unairu":      "Unairu",
   "mod.polarity.penjaga":     "Penjaga",
-  "mod.polarity.umbra":       "Umbra"
+  "mod.polarity.umbra":       "Umbra",
+
+  "baro.category.mod":      "Mods",
+  "baro.category.weapon":   "Armas",
+  "baro.category.prime":    "Primes",
+  "baro.category.resource": "Recursos",
+  "baro.category.cosmetic": "Cosméticos",
+  "baro.category.decoration": "Decorações",
+  "baro.category.other":    "Outros",
+
+  "baro.item.weapon.Halikar Wraith":                            "Halikar Quimérica",
+  "baro.item.weapon.Prisma Ohma":                               "Ohma Prisma",
+  "baro.item.weapon.Viper Wraith":                              "Viper Quimérica",
+  
+  "baro.item.mod.Crash Course":                                 "Crash Course",
+  "baro.item.mod.Jolt":                                         "Jolt",
+  "baro.item.mod.Primed Animal Instinct":                       "Primed Animal Instinct",
+  "baro.item.mod.Primed Expel Orokin":                          "Primed Expel Orokin",
+  "baro.item.mod.Primed Firestorm":                             "Primed Firestorm",
+  "baro.item.mod.Split Flights":                                "Split Flights",
+  "baro.item.mod.Sweeping Serration":                           "Sweeping Serration",
+  "baro.item.mod.Weapon Shotgun Faction Damage Murmurs Expert": "Primed Cleanse The Murmur",
+  
+  "baro.item.resource.Grustrag Three Beacon":                   "Sinalizador do Trio Grustrag",
+  
+  "baro.item.prime.Axi M5 Relic":                               "Relíquia Axi M5",
+  
+  "baro.item.cosmetic.Ki'teer Tribute Glyph":                   "Glifo: Tributo Ki'teer",
+  "baro.item.cosmetic.Scimitar Prisma Skin":                    "Scimitar: Skin Prisma",
+  "baro.item.cosmetic.Body Suit Adult Nova Engineer":           "Traje Da Teodolita Mascarada",
+  "baro.item.cosmetic.Fae Path Ephemera":                       "Efêmera: Caminho Fae",
+  "baro.item.cosmetic.Glyph Faction Grineer":                   "Glifo: Grineer",
+  "baro.item.cosmetic.Harkonar Wraith Arm Armor":               "Ombros: Harkonar",
+  "baro.item.cosmetic.Harkonar Wraith Chest Armor":             "Peitoral: Harkonar Quimérica",
+  "baro.item.cosmetic.Harkonar Wraith Cloak":                   "Syandana: Harkonar Quimérica",
+  "baro.item.cosmetic.Harkonar Wraith Leg Armor":               "Pernas: Harkonar Quimérica",
+  "baro.item.cosmetic.Hood Duviri Adult Operator":              "Elmo Do Estranho",
+  "baro.item.cosmetic.Hood Adult Nova Engineer":                "Elmo Da Teodolita Mascarada",
+  "baro.item.cosmetic.Leggings Adult Nova Engineer":            "Calça Da Teodolita Mascarada",
+  "baro.item.cosmetic.Kavat Sentinel Mask":                     "Máscara de Sentinela: Kavat",
+  "baro.item.cosmetic.Kavat Sentinel Tail":                     "Cauda de Sentinela: Kavat",
+  "baro.item.cosmetic.Kavat Sentinel Wings":                    "Asas de Sentinela: Kavat",
+  "baro.item.cosmetic.Ki'teer Syandana":                        "Syandana: Ki'teer",
+  "baro.item.cosmetic.Lotus Flowers":                           "Efêmera: Lótus",
+  "baro.item.cosmetic.Pack Leader Emblem":                      "Emblema: Pack Leader",
+  "baro.item.cosmetic.Reshantur Cult Syandana":                 "Syandana: Culto do Reshantur",
+  "baro.item.cosmetic.Sleeves Adult Nova Engineer":             "Luva Da Teodolita Mascarada",
+  
+  "baro.item.decoration.Heart Of Deimos Album Cover Poster":    "Rapsódia Azul",
+  "baro.item.decoration.Liset Prop Grineer Taktis":             "Caça de Unidade Tática",
+  "baro.item.decoration.Noggle Statue - Baro Ki'teer":          "Estatueta: Baro Ki'teer",
+  "baro.item.decoration.Zag Luxxum Ornament":                   "Ornamento: Luxxum Zag",
+
+  "baro.item.other.Baro Treasure Box":                          "Mercadoria Excedente do Void",
+  "baro.item.other.Javis Experiments Poster B":                 "Rabiscos do Ophiuchus de Javi",
+  "baro.item.other.Jade Shadows Login Song Item":               "Trilha Sonora Das Sombras de Jade",
+  "baro.item.other.Sands Of Inaros Blueprint":                  "Areias de Inaros (Diagrama)"
+
 }

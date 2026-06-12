@@ -357,6 +357,62 @@
   "sync.conflict.summary.tasks": "{{n}} tasks",
   "sync.conflict.summary.drop": "{{n}} custom drop",
   "sync.conflict.summary.drops": "{{n}} custom drops",
-  "sync.conflict.summary.empty": "No data"
+  "sync.conflict.summary.empty": "No data",
+
+  "baro.category.mod":      "Mods",
+  "baro.category.weapon":   "Weapons",
+  "baro.category.prime":    "Primes",
+  "baro.category.resource": "Resources",
+  "baro.category.cosmetic": "Cosmetics",
+  "baro.category.decoration": "Decorations",
+  "baro.category.other":    "Other",
+
+  "baro.item.weapon.Halikar Wraith":                            "Halikar Wraitha",
+  "baro.item.weapon.Prisma Ohma":                               "Prisma Ohma",
+  "baro.item.weapon.Viper Wraith":                              "Viper Wraith",
+  
+  "baro.item.mod.Crash Course":                                 "Crash Course",
+  "baro.item.mod.Jolt":                                         "Jolt",
+  "baro.item.mod.Primed Animal Instinct":                       "Primed Animal Instinct",
+  "baro.item.mod.Primed Expel Orokin":                          "Primed Expel Orokin",
+  "baro.item.mod.Primed Firestorm":                             "Primed Firestorm",
+  "baro.item.mod.Split Flights":                                "Split Flights",
+  "baro.item.mod.Sweeping Serration":                           "Sweeping Serration",
+  "baro.item.mod.Weapon Shotgun Faction Damage Murmurs Expert": "Primed Cleanse The Murmur",
+  
+  "baro.item.resource.Grustrag Three Beacon":                   "Grustrag Three Beacon",
+  
+  "baro.item.prime.Axi M5 Relic":                               "Axi M5 Relic",
+  
+  "baro.item.cosmetic.Ki'teer Tribute Glyph":                   "Ki'teer Tribute Glyph",
+  "baro.item.cosmetic.Scimitar Prisma Skin":                    "Scimitar Prisma Skin",
+  "baro.item.cosmetic.Body Suit Adult Nova Engineer":           "Masker's Theodolite Crewsuit",
+  "baro.item.cosmetic.Fae Path Ephemera":                       "Fae Path Ephemera",
+  "baro.item.cosmetic.Glyph Faction Grineer":                   "Grineer Glyph",
+  "baro.item.cosmetic.Harkonar Wraith Arm Armor":               "Harkonar Wraith Arm Armor",
+  "baro.item.cosmetic.Harkonar Wraith Chest Armor":             "Harkonar Wraith Chest Armor",
+  "baro.item.cosmetic.Harkonar Wraith Cloak":                   "Harkonar Wraith Cloak",
+  "baro.item.cosmetic.Harkonar Wraith Leg Armor":               "Harkonar Wraith Leg Armor",
+  "baro.item.cosmetic.Hood Duviri Adult Operator":              "The Stranger's Hood",
+  "baro.item.cosmetic.Hood Adult Nova Engineer":                "Masker's Theodolite Crewsuit Hood",
+  "baro.item.cosmetic.Leggings Adult Nova Engineer":            "Masker's Theodolite Crewsuit Leggings",
+  "baro.item.cosmetic.Kavat Sentinel Mask":                     "Kavat Sentinel Mask",
+  "baro.item.cosmetic.Kavat Sentinel Tail":                     "Kavat Sentinel Tail",
+  "baro.item.cosmetic.Kavat Sentinel Wings":                    "Kavat Sentinel Wings",
+  "baro.item.cosmetic.Ki'teer Syandana":                        "Ki'teer Syandana",
+  "baro.item.cosmetic.Lotus Flowers":                           "Lotus Ephemera",
+  "baro.item.cosmetic.Pack Leader Emblem":                      "Pack Leader Emblem",
+  "baro.item.cosmetic.Reshantur Cult Syandana":                 "Reshantur Cult Syandana",
+  "baro.item.cosmetic.Sleeves Adult Nova Engineer":             "Masker's Theodolite Crewsuit Sleeves",
+  
+  "baro.item.decoration.Heart Of Deimos Album Cover Poster":    "Blue Rhapsody",
+  "baro.item.decoration.Liset Prop Grineer Taktis":             "Taktis Fighter Decoration",
+  "baro.item.decoration.Noggle Statue - Baro Ki'teer":          "Noggle Statue - Baro Ki'teer",
+  "baro.item.decoration.Zag Luxxum Ornament":                   "Zag Luxxum Ornament",
+
+  "baro.item.other.Baro Treasure Box":                          "Void Surplus",
+  "baro.item.other.Javis Experiments Poster B":                 "Javi Ophiuscus Scrawling",
+  "baro.item.other.Jade Shadows Login Song Item":               "Jade Shadows Login Music",
+  "baro.item.other.Sands Of Inaros Blueprint":                  "Sands Of Inaros Blueprint"
 
 }
