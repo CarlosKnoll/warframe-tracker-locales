@@ -1247,6 +1247,7 @@
   "baro.item.cosmetic.Hood Duviri Adult Operator":              "Elmo Do Estranho",
   "baro.item.cosmetic.Hood Adult Nova Engineer":                "Elmo Da Teodolita Mascarada",
   "baro.item.cosmetic.Leggings Adult Nova Engineer":            "Calça Da Teodolita Mascarada",
+  "baro.item.decoration.Javis Experiments Poster B":            "Rabiscos do Ophiuchus de Javi",
   "baro.item.cosmetic.Kavat Sentinel Mask":                     "Máscara de Sentinela: Kavat",
   "baro.item.cosmetic.Kavat Sentinel Tail":                     "Cauda de Sentinela: Kavat",
   "baro.item.cosmetic.Kavat Sentinel Wings":                    "Asas de Sentinela: Kavat",
@@ -1262,7 +1263,6 @@
   "baro.item.decoration.Zag Luxxum Ornament":                   "Ornamento: Luxxum Zag",
 
   "baro.item.other.Baro Treasure Box":                          "Mercadoria Excedente do Void",
-  "baro.item.other.Javis Experiments Poster B":                 "Rabiscos do Ophiuchus de Javi",
   "baro.item.other.Jade Shadows Login Song Item":               "Trilha Sonora Das Sombras de Jade",
   "baro.item.other.Sands Of Inaros Blueprint":                  "Areias de Inaros (Diagrama)"
 
