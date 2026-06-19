@@ -327,6 +327,9 @@
   "mission.Jordas Golem Assassinate": "Assassinato do Golem Jordas (Éris)",
   "mission.Mutalist Alad V Assassinate": "Assassinato do Alad V Mutalista (Éris)",
   "mission.Vesper Relay":"Relay Vesper",
+  "mission.Pontis Tower":"Torre Pontis",
+  "mission.The Kuva Wytch":"A Bruxa da Kuva",
+  "mission.Scoria's Angel":"Arcanja da Escória",
 
 
   "quests.Awakening": "Despertar",
@@ -605,6 +608,8 @@
   "item.Pulmonars": "Pulmonares",
   "item.Sun & Moon": "Sol & Lua",
   "item.Hate": "Ódio",
+  "item.Wrath": "Ira",
+  "item.Pride": "Orgulho",
 
   "item.Deconstructor": "Desconstrutora",
   "item.Burst Laser": "Rajada a Laser",
@@ -687,6 +692,7 @@
   "arcane.Arcane Velocity": "Velocidade Arcana",
   "arcane.Arcane Victory": "Vitória Arcana",
   "arcane.Arcane Warmth": "Aquecimento Arcano",
+  "arcane.Arcane Sculptor": "Escultor Arcano",
 
   "arcane.Emergence Dissipate": "Dissipação Emergente",
   "arcane.Emergence Renewed": "Renovação Emergente",
@@ -743,6 +749,7 @@
   "arcane.Primary Obstruct": "Obstrução (Armas Primárias)",
   "arcane.Primary Overcharge": "Saturação (Armas Primárias)",
   "arcane.Primary Plated Round": "Munições Revestidas (Armas Primárias)",
+  "arcane.Primary Compression": "Compressão Primária",
 
   "arcane.Akimbo Slip Shot": "Disparo Deslizante (Pistolas Duplas)",
 
@@ -764,6 +771,7 @@
   "arcane.Secondary Outburst": "Explosão (Armas Secundárias)",
   "arcane.Secondary Shiver": "Calafrio (Armas Secundárias)",
   "arcane.Secondary Surge": "Sobretensão (Armas Secundárias)",
+  "arcane.Secondary Cryogenic": "Criogenia Secundária",
 
   "arcane.Melee Afflictions": "Martírio (Armas Brancas)",
   "arcane.Melee Animosity": "Animosidade (Armas Brancas)",
@@ -776,6 +784,7 @@
   "arcane.Melee Influence": "Influência (Armas Brancas)",
   "arcane.Melee Retaliation": "Retaliação (Armas Brancas)",
   "arcane.Melee Vortex": "Vórtice (Armas Brancas)",
+  "arcane.Melee Assimilation": "Assimilação (Corpo a Corpo)",
 
   "arcane.Pax Bolt": "Raio de Pax",
   "arcane.Pax Charge": "Carga de Pax",
