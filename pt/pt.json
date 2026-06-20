@@ -93,7 +93,9 @@
     "item": "Itens",
     "ducats": "Ducatas",
     "credits": "Créditos",
-    "dropSources": "Fontes de Drop:",
+    "dropSources": "Fontes de Drop",
+    "increase": "Aumentar",
+    "decrease": "Diminuir",
 
     "drops":{
       "modal.colItem": "Item",
@@ -1667,8 +1669,8 @@
         "missing_parent": "Peça-pai ausente",
         "copy_1": "Cópia 1",
         "copy_2": "Cópia 2 (subsumir)",
-        "how_obtained": "Como obtido?",
-        "how_obtained_copy2": "Como obtido? (cópia 2)",
+        "how_obtained": "Como foi obtido?",
+        "how_obtained_copy2": "Como foi obtido?",
         "drop": "Drop",
         "bought": "Comprado",
         "owned": "Possuído",

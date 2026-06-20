@@ -95,7 +95,9 @@
     "ducats": "Ducats",
     "credits": "Credits",
     "or": "or",
-    "dropSources": "Drop Source:",
+    "dropSources": "Drop Sources",
+    "increase": "Increase",
+    "decrease": "Decrease",
 
     "drops":{
       "modal.colItem": "Item",
