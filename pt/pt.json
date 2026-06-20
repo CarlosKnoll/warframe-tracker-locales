@@ -36,7 +36,6 @@
     "resurgence": "Ressurgência",
     "showFounder": "Exibir Itens de Fundadores",
     "showSpecial": "Exibir Itens Especiais",
-    "dropSource": "Fontes de Drop:",
     "search": "Buscar...",
     "clear": "Limpar busca",
     "warframe": "Warframe",
@@ -94,6 +93,7 @@
     "item": "Itens",
     "ducats": "Ducatas",
     "credits": "Créditos",
+    "dropSource": "Fontes de Drop:",
 
     "drops":{
       "modal.colItem": "Item",
@@ -799,6 +799,7 @@
         "custom.group.select": "Grupo",
         "circuit.weapon.mark_obtained": "Marcar como obtido",
         "circuit.weapon.mark_not_obtained": "Marcar como não obtido",
+        
         "dailies":{
           "forma.label": "Forja (Forma)",
           "forma.desc": "Comece a forjar uma nova Forma, catalisadores e reatores, e colete as concluídas.",
@@ -855,6 +856,11 @@
             "Relic Pack": "Pacote de Relíquias",
             "Stance Forma Blueprint": "Forma de Postura (Diagrama)"
           }
+        },
+
+        "circuit":{
+          "weapon.mark_not_obtained": "Não obtida",
+          "weapon.mark_obatined": "Obtida"
         },
 
         "calendar":{

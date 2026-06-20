@@ -38,7 +38,6 @@
     "resurgence": "Resurgence",
     "showFounder": "Show Founder Items",
     "showSpecial": "Show Special Items",
-    "dropSource": "Drop Source:",
     "search": "Search...",
     "clear": "Clear search",
     "warframe": "Warframe",
@@ -82,8 +81,8 @@
     "weapon":   "Weapons",
     "prime":    "Primes",
     "resource": "Resources",
-    "cosmetic": "Cosmetics",
-    "decoration": "Decorations"
+    "cosmetics": "Cosmetics",
+    "decorations": "Decorations"
   },
 
   "general":{
@@ -94,6 +93,8 @@
     "item": "Items",
     "ducats": "Ducats",
     "credits": "Credits",
+    "or": "or",
+    "dropSource": "Drop Source:",
 
     "drops":{
       "modal.colItem": "Item",
@@ -115,6 +116,41 @@
       "table.resurgenceRelics": "Resurgence Relics (Varzia)",
       "none": "No drop data available",
       "more": "... and {{count}} more"
+    },
+
+    "component":{
+      "blueprint": "Blueprint",
+      "neuroptics": "Neuroptics",
+      "chassis": "Chassis",
+      "systems": "Systems",
+      "carapace": "Carapace",
+      "cerebrum": "Cerebrum",
+      "wings": "Wings",
+      "barrel": "Barrel",
+      "receiver": "Receiver",
+      "stock": "Stock",
+      "blade": "Blade",
+      "blades": "Blades",
+      "handle": "Handle",
+      "grip": "Grip",
+      "pouch": "Pouch",
+      "string": "String",
+      "upper_limb": "Upper Limb",
+      "lower_limb": "Lower Limb",
+      "guard": "Guard",
+      "ornament": "Ornament",
+      "hilt": "Hilt",
+      "harness": "Harness",
+      "stars": "Stars",
+      "gauntlet": "Gauntlet",
+      "link": "Link",
+      "head": "Head",
+      "boot": "Boot",
+      "disc": "Disc",
+      "glove": "Glove",
+      "core": "Core",
+      "day aspect": "Day Aspect",
+      "night aspect": "Night Aspect"
     },
 
     "game":{
@@ -221,6 +257,15 @@
           "elitedeepa.desc": "High-end weekly challenge for powerful Archon Shard chances.",
           "elitetemporala.label": "Elite Temporal Archimedea",
           "elitetemporala.desc": "Weekly endgame challenge for Archon Shard rewards."
+        },
+
+        "steelpath":{
+          "essence": "Steel Essence"
+        },
+
+        "circuit":{
+          "weapon.mark_not_obtained": "Not obtained",
+          "weapon.mark_obatined": "Obtained"
         },
 
         "calendar":{
@@ -715,7 +760,6 @@
         "label.mastered": "Mastered",
         "label.subsumed": "Subsumed",
         "label.xp": "XP",
-        "label.noItems": "No items match your filters.",
         "progress.mastered": "mastered",
         "progress.xp": "XP",
         "status.all": "All",
