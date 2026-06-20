@@ -69,6 +69,7 @@
   },
 
   "feedback":{
+    "noItems": "No items for the selected filters.",
     "loading.mastery": "Loading mastery data...",
     "loading.primes": "Loading primes data...",
     "loading.mods": "Loading mod data...",
@@ -94,7 +95,7 @@
     "ducats": "Ducats",
     "credits": "Credits",
     "or": "or",
-    "dropSource": "Drop Source:",
+    "dropSources": "Drop Source:",
 
     "drops":{
       "modal.colItem": "Item",
@@ -260,6 +261,7 @@
         },
 
         "steelpath":{
+          "incursions.reward": "6 Incursions · 30 Steel Essence total",
           "essence": "Steel Essence"
         },
 

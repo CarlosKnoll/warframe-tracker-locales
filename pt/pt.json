@@ -93,7 +93,7 @@
     "item": "Itens",
     "ducats": "Ducatas",
     "credits": "Créditos",
-    "dropSource": "Fontes de Drop:",
+    "dropSources": "Fontes de Drop:",
 
     "drops":{
       "modal.colItem": "Item",
