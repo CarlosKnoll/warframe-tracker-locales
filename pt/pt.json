@@ -1630,6 +1630,7 @@
       "ui":{
         "placeholder": "Busque um item para ver ofertas de compra/venda",
         "noBuyOrders": "Nenhuma oferta de compra ativa encontrada para este item",
+        "noSellOrders": "Nenhuma oferta de venda ativa encontrada para este item",
         "error": "Falha ao buscar dados do mercado",
         "buy": "Ofertas de Compra",
         "sell": "Ofertas de Venda",

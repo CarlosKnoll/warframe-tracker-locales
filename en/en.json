@@ -813,6 +813,7 @@
         "placeholder": "Search for an item to see buy/sell orders",
         "noResults": "No active orders found for this item",
         "noBuyOrders": "No active buy orders found for this item",
+        "noSellOrders": "No active sell orders found for this item",
         "error": "Failed to fetch market data",
         "buy": "Buy Orders",
         "sell": "Sell Orders",
