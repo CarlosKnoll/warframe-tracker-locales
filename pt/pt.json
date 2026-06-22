@@ -80,7 +80,8 @@
     "prime": "Primes",
     "resource": "Recursos",
     "decorations": "Decorações",
-    "cosmetics": "Cosméticos"
+    "cosmetics": "Cosméticos",
+    "standing": "Reputação"
   },
 
   "general":{
@@ -1680,8 +1681,8 @@
         "subsume": "Subsumir",
         "slot.blade-1": "Lâmina 1",
         "slot.blade-2": "Lâmina 2",
-        "inventory": "{{name}} no inventário",
-        "avg_yield": "{{name}} rendimento médio por missão",
+        "inventory": "{{name}}: no inventário",
+        "avg_yield": "{{name}}: rendimento médio por missão",
         "total_needed": "Total necessário",
         "remaining": "Restante (após inventário)",
         "runs_needed": "Missões necessárias",
@@ -1745,7 +1746,7 @@
           "name":"U41: Roathe",
           "warframe":"Uriel",
           "currencies":{
-            "maphica": "Maphica"
+            "maphica": "Máphica"
           },
           "item":{
             "scene-makvos": "Cena: Canhão Makvoss",
@@ -1757,7 +1758,28 @@
             "scene-marie": "Cena: Sala da Marie",
             "simulacrum-roathe": "Arena do Esquecimento do Roathe"
           }        
-        }
+        },
+
+        "u40":{
+          "name":"U40: Nightcap",
+          "warframe":"Nokko",
+          "currencies":{
+            "fergolyte": "Fergólito"
+          },
+          "item":{
+            "ephemera-rizoma": "Efêmera: Rizoma",
+            "skin-onemind": "Mente Singular",
+            "skin-roots": "Raízes e Frutas",
+            "skin-shooms": "Cogumelos",
+            "poster-onemind": "Pôster: Mente Singular",
+            "poster-roots": "Pôster: Raízes e Frutas",
+            "poster-shooms": "Pôster: Cogumelos",
+            "scene-caves": "Cena: Cavernas das Minas Profundas",
+            "scene-forward": "Cena: Base Avançada das Minas Profundas",
+            "scene-lab": "Cena: Laboratório das Minas Profundas",
+            "scene-nutrient": "Cena: Planta de Nutrientes das Minas Profundas",
+            "scene-deepmines": "Cena: Minas Profundas"
+          }
       }
     },
 

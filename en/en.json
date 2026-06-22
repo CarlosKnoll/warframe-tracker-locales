@@ -77,13 +77,14 @@
   },
 
   "category":{
-    "misc":        "Misc",
+    "misc":     "Misc",
     "mod":      "Mods",
     "weapon":   "Weapons",
     "prime":    "Primes",
     "resource": "Resources",
     "cosmetics": "Cosmetics",
-    "decorations": "Decorations"
+    "decorations": "Decorations",
+    "standing": "Standing"
   },
 
   "general":{
@@ -861,8 +862,8 @@
         "subsume": "Subsume",
         "slot.blade-1": "Blade 1",
         "slot.blade-2": "Blade 2",
-        "inventory": "{{name}} in inventory",
-        "avg_yield": "{{name}} average yield per run",
+        "inventory": "{{name}}: in inventory",
+        "avg_yield": "{{name}}: average yield per run",
         "total_needed": "Total needed",
         "remaining": "Missing",
         "runs_needed": "Missions needed",
@@ -937,7 +938,29 @@
             "scene-lyon": "Lyon's Room Scene",
             "scene-marie": "Marie's Room Scene",
             "simulacrum-roathe": "Roathe's Oblivion Arena"
-          }        
+          }
+        },
+
+        "u40":{
+          "name":"U40: Nightcap",
+          "warframe":"Nokko",
+          "currencies":{
+            "fergolyte": "Fergolyte"
+          },
+          "item":{
+            "ephemera-rizoma": "Rizoma Ephemera",
+            "skin-onemind": "Onemind",
+            "skin-roots": "Roots N' Fruits",
+            "skin-shooms": "Shooms",
+            "poster-onemind": "Onemind Poster",
+            "poster-roots": "Roots N' Fruits Poster",
+            "poster-shooms": "Shooms Poster",
+            "scene-caves": "Deepmines Caves Scene",
+            "scene-forward": "Deepmines Forward Base Scene",
+            "scene-lab": "Deemines Lab Scene",
+            "scene-nutrient": "Deepmines Nutrient Plant Scene",
+            "scene-deepmines": "Deepmines Scene"
+          }
         }
       }
     },
