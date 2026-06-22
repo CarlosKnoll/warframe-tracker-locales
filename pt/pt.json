@@ -1688,7 +1688,7 @@
         "hours": "Horas",
         
         "u43":{
-          "name":"Hunhow",
+          "name":"U43: Hunhow",
           "warframe":"Sirius & Órion",
           "currencies":{
             "emerald": "Talento Esmeralda",
@@ -1722,6 +1722,23 @@
             "crewmate-latrox-une": "Latrox Une",
             "crewmate-jarka-lar": "Jarka Lar"
           }        
+        },
+
+        "u42":{
+          "name":"U42: Aspirante Zorba",
+          "warframe":"Follie",
+          "currencies":{
+            "atramentum": "Atramento"
+          },
+          "item":{
+            "chromatic-atramentum": "Atramento Cromático",
+            "truths-flame": "Truth's Flame",
+            "drip": "Drip (Gota)",
+            "stained-vespers": "Satined Vespers (Mancha de Vesper)",
+            "dreadnaught": "Dreadnaught (Encouraçado)",
+            "follie-prex": "Prex: Follie",
+            "relay-scene": "Cena: Relay Vesper Assombrado"
+          }
         }
       }
     },
