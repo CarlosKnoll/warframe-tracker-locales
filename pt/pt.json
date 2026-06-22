@@ -1739,6 +1739,24 @@
             "follie-prex": "Prex: Follie",
             "relay-scene": "Cena: Relay Vesper Assombrado"
           }
+        },
+
+        "u41":{
+          "name":"U41: Roathe",
+          "warframe":"Uriel",
+          "currencies":{
+            "maphica": "Maphica"
+          },
+          "item":{
+            "scene-makvos": "Cena: Canhão Makvoss",
+            "scene-boro": "Cena: Mirante Boro",
+            "scene-seeder": "Cena: Sementeiro Global",
+            "scene-tennadis": "Cena: Forte Tennadis",
+            "scene-perita": "Cena: Manifestação de Perita",
+            "scene-lyon": "Cena: Sala do Lyon",
+            "scene-marie": "Cena: Sala da Marie",
+            "simulacrum-roathe": "Arena do Esquecimento do Roathe"
+          }        
         }
       }
     },

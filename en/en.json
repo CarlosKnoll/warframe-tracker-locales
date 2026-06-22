@@ -920,6 +920,24 @@
             "follie-prex": "Follie Prex",
             "relay-scene": "Haunted Vesper Relay Scene"
           }
+        },
+
+        "u41":{
+          "name":"U41: Roathe",
+          "warframe":"Uriel",
+          "currencies":{
+            "maphica": "Maphica"
+          },
+          "item":{
+            "scene-makvos": "Makvos Cannon Scene",
+            "scene-boro": "Boro Overlook Scene",
+            "scene-seeder": "World-Seeder Scene",
+            "scene-tennadis": "Fort Tennadis Scene",
+            "scene-perita": "Perita Manifestation Scene",
+            "scene-lyon": "Lyon's Room Scene",
+            "scene-marie": "Marie's Room Scene",
+            "simulacrum-roathe": "Roathe's Oblivion Arena"
+          }        
         }
       }
     },
