@@ -82,8 +82,11 @@
     "weapon":   "Weapons",
     "prime":    "Primes",
     "resource": "Resources",
+    "cosmetic": "Cosmetics",
     "cosmetics": "Cosmetics",
+    "decoration": "Decorations",
     "decorations": "Decorations",
+    "other": "Other",
     "standing": "Standing"
   },
 

@@ -79,9 +79,12 @@
     "weapon": "Armas",
     "prime": "Primes",
     "resource": "Recursos",
+    "decoration": "Decorações",
     "decorations": "Decorações",
+    "cosmetic": "Cosméticos",
     "cosmetics": "Cosméticos",
-    "standing": "Reputação"
+    "standing": "Reputação",
+    "other":"Outros"
   },
 
   "general":{
@@ -1341,6 +1344,7 @@
             "decoration.Dog Days Protea Display": "Dog Days Protea Display",
             "decoration.Dog Days2024 Liset Prop Cleaning Drone Beachcomber": "Hellshell Domestik Drone",
             "decoration.Domestik Dais Drone": "Domestik Dais Drone",
+            "decoration.Domestik Ki'teer Drone": "Domestik Ki'teer Drone",
             "decoration.Dvad Luxxum Ornament": "Ornamento: Dvad Luxxum",
             "decoration.Empyrean Vignette": "Empyrean Vignette",
             "decoration.Era Hypnosis Poster": "Don't Be Afraid Poster",
@@ -1354,7 +1358,6 @@
             "decoration.Javis Experiments Poster D": "Javi Genome Scrawling",
             "decoration.Karishh's Dinnerware": "Karishh's Dinnerware",
             "decoration.Ki'teer Stencil": "Ki'Teer Stencil",
-            "decoration.Liset Prop Cleaning Drone Baro Pink": "Domestik Ki'Teer Drone (Lavender Ice)",
             "decoration.Liset Prop Cleaning Drone Beachcomber": "Beachcomber Domestik Drone",
             "decoration.Liset Prop Corpus Harpi": "Harpi Fighter Decoration",
             "decoration.Liset Prop Corpus Weaver": "Weaver Fighter Decoration",
@@ -1566,11 +1569,11 @@
             "cosmetic.Mulciber Shoulder Plate": "Ombros: Mulciber",
             "cosmetic.Vome-Fass Glyph": "Glifo: Vome-Fass",
             "decoration.Deimos Veolicpod Prex": "Prex: Velocípede de Deimos",
-            "decoration.Domestik Ki'teer Drone": "Drone Domestik Ki'teer (Gelo Lavanda)",
             "decoration.Flak Fighter Decoration": "Caça de Unidade Anti-Aérea",
             "decoration.Green Ki'teer Safari K-Drive Scrawl": "Esboço: K-Drive Safari Ki'teer (Verde)",
             "decoration.Javis Experiments Poster B": "Rabiscos do Ophiuchus de Javi",
             "decoration.Javis Experiments Poster C": "Rabiscos da Luminosidade de Javi",
+            "decoration.Liset Prop Cleaning Drone Baro Pink": "Drone Domestik Ki'teer (Gelo Lavanda)",
             "decoration.Liset Prop Grineer Taktis": "Caça de Unidade Tática",
             "decoration.Sima Luxxum Ornament": "Ornamento: Luxxum Sima",
             "other.Baro Treasure Box": "Mercadoria Excedente do Void",
