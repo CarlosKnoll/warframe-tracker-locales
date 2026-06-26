@@ -864,11 +864,6 @@
           }
         },
 
-        "circuit":{
-          "weapon.mark_not_obtained": "Não obtida",
-          "weapon.mark_obatined": "Obtida"
-        },
-
         "calendar":{
           "prizes.label": "Prêmios da temporada:",
           "todos.label": "Desafios:",

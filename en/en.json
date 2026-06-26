@@ -276,11 +276,6 @@
           "essence": "Steel Essence"
         },
 
-        "circuit":{
-          "weapon.mark_not_obtained": "Not obtained",
-          "weapon.mark_obatined": "Obtained"
-        },
-
         "calendar":{
           "prizes.label": "Season prizes:",
           "todos.label": "Challenges:"
