@@ -278,7 +278,11 @@
 
         "calendar":{
           "prizes.label": "Season prizes:",
-          "todos.label": "Challenges:"
+          "todos.label": "Challenges:",
+          "item":{
+            "Archon Crystal Orange": "Topaz Archon Shard"
+          }
+          
         },
 
         "archimedea":{
@@ -708,6 +712,7 @@
             "other.The New War Login Song Item": "The New War Login Music",
             "other.The Sacrifice Login Song Item": "The Sacrifice Login Music",
             "other.Veilbreaker Login Song Item": "Veilbreaker Login Music",
+            "other.Venus Orb Vallis Login Song Item": "Fortuna Login Music",
             "other.Void Eclipse Login Song Item": "Lua's Prey Login Music",
             "other.Whispers In The Wall Login Song Item": "Whispers in the Walls Login Music",
             "other.Zariman Login Song Item": "Angels of the Zariman Login Music",
