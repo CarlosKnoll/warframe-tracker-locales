@@ -882,6 +882,37 @@
         "remaining": "Missing",
         "runs_needed": "Missions needed",
         "hours": "Hours",
+
+        "u44":{
+          "name":"U44: Iceblades of Narin",
+          "warframe":"Narin",
+          "currencies":{
+            "enKuva": "Entropic Kuva"
+          },
+          "item":{
+            "narin-sigil": "Glacium Sigil",
+            "narin-ephemera": "Seonang Ephemera",
+            "narin-shoulder": "Tidon Shoulder Medallion",
+            "narin-chest": "Tidon Chest Medallion",
+            "narin-leg": "Tidon Leg Medallion",
+            "narin-skin-nepheri": "Niveus Nepheri Skin",
+            "narin-skin-dark-split": "Niveus Dark Split-Sword Skin",
+            "narin-skin-dark-dagg": "Niveus Dark Dagger Skin",
+            "narin-skin-dark-sword": "Niveus Dark Sword Skin",
+            "narin-skin-paracesis": "Niveus Paracesis Skin",
+            "narin-skin-orvius": "Niveus Orvius Skin",
+            "narin-skin-glaxion": "Niveus Glaxion Skin",
+            "narin-skin-quellor": "Niveus Quellor Skin",
+            "narin-skin-liset": "Niveus Liset Skin",
+            "narin-prex": "Narin Prex",
+            "narin-sumdali": "Niveus Sumdali",
+            "narin-honoria": "On Wings Of Ice Honoria",
+            "narin-scene1": "Yuvan Peak Scene",
+            "narin-scene2": "Melica's Laboratory Scene",
+            "narin-song1": "Neote's Dance",
+            "narin-song2": "Ice Speaker"
+          }
+        },
         
         "u43":{
           "name":"U43: Hunhow",

@@ -1705,6 +1705,37 @@
         "remaining": "Restante (após inventário)",
         "runs_needed": "Missões necessárias",
         "hours": "Horas",
+
+        "u44":{
+          "name":"U44: Cephalon Mélica",
+          "warframe":"Narin",
+          "currencies":{
+            "enKuva": "Kuva Entrópica"
+          },
+          "item":{
+            "narin-sigil": "Brasão: Glacium",
+            "narin-ephemera": "Efêmera: Seonang",
+            "narin-shoulder": "Ombros: Medalhão Tidon",
+            "narin-chest": "Peitoral: Medalhão Tidon",
+            "narin-leg": "Pernas: Medalhão Tidon",
+            "narin-skin-nepheri": "Nepheri: Skin Niveus",
+            "narin-skin-dark-split": "Espada Intercalar Soturna: Skin Niveus",
+            "narin-skin-dark-dagg": "Adaga Soturna: Skin Niveus",
+            "narin-skin-dark-sword": "Espada Soturna: Skin Niveus",
+            "narin-skin-paracesis": "Paracesis: Skin Niveus",
+            "narin-skin-orvius": "Orvius: Skin Niveus",
+            "narin-skin-glaxion": "Glaxion: Skin Niveus",
+            "narin-skin-quellor": "Quellor: Skin Niveus",
+            "narin-skin-liset": "Liset: Skin Niveus",
+            "narin-prex": "Prex: Narin",
+            "narin-sumdali": "Sumdali Niveus",
+            "narin-honoria": "Honória: Asas Glaciais",
+            "narin-scene1": "Yuvan Peak Scene",
+            "narin-scene2": "Cena: Laboratório de Melica",
+            "narin-song1": "Neote's Dance (Dança da Neote)",
+            "narin-song2": "Ice Speaker (Porta-Voz Glacial)"
+          }
+        },
         
         "u43":{
           "name":"U43: Hunhow",
