@@ -236,6 +236,10 @@
         "custom.group.select": "Group",
         "circuit.weapon.mark_obtained":     "Mark as obtained",
         "circuit.weapon.mark_not_obtained": "Mark as not obtained",
+        "shards.guaranteed": "Guaranteed Archon Shards",
+        "shards.potential": "Potential Archon Shards",
+        "badge.cryobell": "Cryobell",
+        "cryobell.header": "3 Cryobells",
 
         "dailies":{
           "forma.label": "Crafting (Forma)",
@@ -270,7 +274,10 @@
           "elitedeepa.label": "Elite Deep Archimedea",
           "elitedeepa.desc": "High-end weekly challenge for powerful Archon Shard chances.",
           "elitetemporala.label": "Elite Temporal Archimedea",
-          "elitetemporala.desc": "Weekly endgame challenge for Archon Shard rewards."
+          "elitetemporala.desc": "Weekly endgame challenge for Archon Shard rewards.",
+          "icebind.label": "Icebind",
+          "icebind.desc": "Complete up to 3 weekly Icebind missions for a chance at Archon Shards."
+
         },
 
         "steelpath":{

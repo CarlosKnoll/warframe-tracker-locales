@@ -807,6 +807,10 @@
         "custom.group.select": "Grupo",
         "circuit.weapon.mark_obtained": "Marcar como obtido",
         "circuit.weapon.mark_not_obtained": "Marcar como não obtido",
+        "shards.guaranteed": "Fragmentos de Arconte garantidos",
+        "shards.potential": "Fragmentos de Arconte potenciais",
+        "badge.cryobell": "Sino Criogênico",
+        "cryobell.header": "3 Sinos Criogênicos",
         
         "dailies":{
           "forma.label": "Forja (Forma)",
@@ -841,7 +845,9 @@
           "elitedeepa.label": "Arquimídia Profunda de Elite",
           "elitedeepa.desc": "Desafio semanal de alta dificuldade para grandes chances de Arcanos e Fragmentos de Arconte.",
           "elitetemporala.label": "Arquimídia Temporal de Elite",
-          "elitetemporala.desc": "Desafio semanal de alta dificuldade para recompensas de Arcanos e Fragmentos de Arconte."
+          "elitetemporala.desc": "Desafio semanal de alta dificuldade para recompensas de Arcanos e Fragmentos de Arconte.",
+          "icebind.label": "Vínculo Glacial",
+          "icebind.desc": "Complete até 3 missões semanais de Vínculo Glacial para uma chance de obter Fragmentos de Arconte."
         },
 
         "steelpath":{
