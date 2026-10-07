@@ -847,7 +847,7 @@
           "elitetemporala.label": "Arquimídia Temporal de Elite",
           "elitetemporala.desc": "Desafio semanal de alta dificuldade para recompensas de Arcanos e Fragmentos de Arconte.",
           "icebind.label": "Vínculo Glacial",
-          "icebind.desc": "Complete até 3 missões semanais de Vínculo Glacial para uma chance de obter Fragmentos de Arconte."
+          "icebind.desc": "Desafios semanais de 6 jogadores de alta dificuldade para recompensas de Rivens, Kuva, Formas e Fragmentos de Arconte.",
         },
 
         "steelpath":{
@@ -912,7 +912,7 @@
         },
 
         "archimedea":{
-          "modifiers": "Modificadores:",
+          "modifiers.label": "Modificadores Pessoais:",
           "modifier":{
             "AbilityLockout": "Inabilidade",
             "AbilityLockout.desc": "Todas as habilidades serão desativadas até que 50 inimigos sejam eliminados pelo esquadrão.",
@@ -965,7 +965,19 @@
             "VoidEnergyOverload": "Sobrecarga de Habilidades",
             "VoidEnergyOverload.desc": "Conjurar uma Habilidade abrirá uma Fenda do Void nas proximidades.",
             "Withering": "Incurável",
-            "Withering.desc": "Coletáveis não curarão, e Orbes de Vida não poderão ser coletados."
+            "Withering.desc": "Coletáveis não curarão, e Orbes de Vida não poderão ser coletados.",
+            "ChannelDrain": "Ganância Canalizada",
+            "ChannelDrain.desc": "Enquanto uma habilidade canalizada estiver ativa, os Escudos e Sobre-Escudos serão reduzidos a cada segundo. Recarga de 10s para recuperação completa.",
+            "NoPets": "Proibido Animais",
+            "NoPets.desc": "Desabilitará os Companheiros.",
+            "AoeDebuff": "Baixo Rendimento",
+            "AoeDebuff.desc": "O raio de explosão de armas com ataques radiais será de 3m.",
+            "RangeDebuff": "Alcance Reduzido",
+            "RangeDebuff.desc": "Reduzirá o alcance das habilidades em 50%.",
+            "AnemicShields": "Escudos Anêmicos",
+            "AnemicShields.desc": "Limitará o valor máximo dos Escudos e Sobre-Escudos para 500.",
+            "InfectedWounds": "Feridas Infeccionadas",
+            "InfectedWounds.desc": "Ao receber dano, você também sofrerá um acúmulo do Efeito de Status Tóxico."
           },
 
           "deviation":{
@@ -1008,7 +1020,7 @@
             "HostileSecurity": "Sentidos da Vida",
             "HostileSecurity.desc": "A Aurícula e o Vítreo sofrerão danos ao longo do tempo. Coletar os Glifos Vosfenos necessários interromperá a degradação e os curará parcialmente.",
             "HungryPillars": "Deterioração Radioativa",
-            "HungryPillars.desc": "Todos os inimigos se tornarão invulneráveis, e só sofrerão dano ao receberem o Efeito de Status <DT_RADIATION>Radioativo. Pilares Chyrinka aparecerão aleatoriamente na missão, e infligirão tal efeito.",
+            "HungryPillars.desc": "Todos os inimigos se tornarão invulneráveis, e só sofrerão dano ao receberem o Efeito de Status Radioativo. Pilares Chyrinka aparecerão aleatoriamente na missão, e infligirão tal efeito.",
             "InfiniteTide": "Maré Implacável",
             "InfiniteTide.desc": "A Maré Fragmentada atacará constantemente, sem interrupção.",
             "LostInTranslation": "Oi, Sumido",

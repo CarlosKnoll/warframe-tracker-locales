@@ -276,7 +276,7 @@
           "elitetemporala.label": "Elite Temporal Archimedea",
           "elitetemporala.desc": "Weekly endgame challenge for Archon Shard rewards.",
           "icebind.label": "Icebind",
-          "icebind.desc": "Complete up to 3 weekly Icebind missions for a chance at Archon Shards."
+          "icebind.desc": "Weekly endgame challenge for 6 players for Rivens, Kuva, Forma and Archon Shards."
 
         },
 
@@ -295,7 +295,22 @@
         },
 
         "archimedea":{
-          "modifiers.label": "Personal Modifiers:"
+          "modifiers.label": "Personal Modifiers:",
+          "modifier":{
+            "NoPets": "No Pets Allowed",
+            "NoPets.desc": "Companions are disabled",
+            "ChannelDrain": "Channeled Greed",
+            "ChannelDrain.desc": "While a channeled ability is active, maximum shields and overshields are reduced each second. 10s cooldown to fully recover.",
+            "AoeDebuff": "Low Yield",
+            "AoeDebuff.desc": "Blast radius of weapons with radial attacks is set to 3m.",
+            "RangeDebuff": "Shortened Reach",
+            "RangeDebuff.desc": "Ability range reduced by 50%.",
+            "AnemicShields": "Anemic Shields",
+            "AnemicShields.desc": "Maximum shield and overshield will not exceed 500.",
+            "InfectedWounds": "Infected Wounds",
+            "InfectedWounds.desc": "Gain a Toxin Status Effect every time you take damage."
+
+          }
         },
 
         "baro":{
