@@ -86,8 +86,9 @@
     "cosmetics": "Cosmetics",
     "decoration": "Decorations",
     "decorations": "Decorations",
-    "other": "Other",
-    "standing": "Standing"
+    "other": "Others",
+    "standing": "Standing",
+    "non-exclusive": "Non-Exclusives"
   },
 
   "general":{
@@ -924,20 +925,20 @@
             "haalvu": "Haalvu",
             "spectra-vandal": "Spectra Vandal",
             "basmu-blueprint": "Basmu Blueprint",
-            "taubond-cont-greaves": "Contegorus Greaves",
-            "taubond-cont-pauldrons": "Contegorus Pauldrons",
-            "taubond-cont-chestplate": "Contegorus Chest Plate",
-            "taubond-vacis": "Vacis Amp Skin",
-            "taubond-arturos": "Arturos Vessel Glyph",
-            "taubond-zioa": "Zioa Vessel Glyph",
-            "taubond-natah": "Neolyst Natah Glyph",
-            "taubond-dhampyre": "Dhampyre Syandana",
-            "taubond-sigil": "Taubound Sigil",
-            "taubond-emblem": "Epoch Operation Vessel Emblem",
-            "taubond-natah-floof": "Neolyst Natah Floof",
-            "taubond-sumdali": "Khadati Sumdali",
-            "taubond-song": "Devourer",
-            "taubond-honoria": "The Moon Killer Honoria",
+            "taubound-cont-greaves": "Contegorus Greaves",
+            "taubound-cont-pauldrons": "Contegorus Pauldrons",
+            "taubound-cont-chestplate": "Contegorus Chest Plate",
+            "taubound-vacis": "Vacis Amp Skin",
+            "taubound-arturos": "Arturos Vessel Glyph",
+            "taubound-zioa": "Zioa Vessel Glyph",
+            "taubound-natah": "Neolyst Natah Glyph",
+            "taubound-dhampyre": "Dhampyre Syandana",
+            "taubound-sigil": "Taubound Sigil",
+            "taubound-emblem": "Epoch Operation Vessel Emblem",
+            "taubound-natah-floof": "Neolyst Natah Floof",
+            "taubound-sumdali": "Khadati Sumdali",
+            "taubound-song": "Devourer",
+            "taubound-honoria": "The Moon Killer Honoria",
             "valdurs": "Valdur's Syandana",
             "naktavyre-leg":"Naktavyre Leg Armor",
             "naktavyre-shoulder":"Naktavyre Shoulder Armor",
@@ -952,7 +953,7 @@
             "phased-clan":"Phased Clan Sigil",
             "glyphed-clan":"Glyphed Clan Sigil",
             "gilded-clan":"Gilded Clan Sigil",
-            "ballroom-simulacrum":"Ballroom Simulacrum"
+            "ballroom-simulacrum":"The Ballroom Simulacrum"
           }
         },
 
