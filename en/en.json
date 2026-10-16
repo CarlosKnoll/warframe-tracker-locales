@@ -368,7 +368,9 @@
             "cosmetic.Evil Baro Arca Armor C": "Eskhatos Ki'Teer Chest Guard",
             "cosmetic.Evil Baro Arca Armor L": "Eskhatos Ki'Teer Knee Guards",
             "cosmetic.Evil Baro Necraloid Sigil": "Eskhatos Necraloid Sigil",
+            "cosmetic.Evil Baro Necramech Skin": "Eskhatos Necramech Skin",
             "cosmetic.Evil Baro Silva And Aegis": "Silva & Aegis Eskhatos Skin",
+            "cosmetic.Evil Baro Sugatra Melee Dangle": "Eskhatos Sugatra",
             "cosmetic.Exilis Helios": "Helios Elixis Skin",
             "cosmetic.Fae Path Ephemera": "Fae Path Ephemera",
             "cosmetic.Gara Alternate Skin": "Gara Immortal Skin",
@@ -581,6 +583,7 @@
             "decoration.Gauss Tower Of Altra Deco": "Grav Lifter Factory",
             "decoration.Green Ki'teer Safari K-Drive Scrawl": "Green Ki'Teer Safari K-Drive Scrawl",
             "decoration.Heart Of Deimos Album Cover Poster": "Blue Rhapsody",
+            "decoration.Image Baro Kiteer Evil": "Eskhatos Ki'teer Glyph",
             "decoration.Itzal Archwing Bobble Head": "Noggle Statue - Mag with Itzal",
             "decoration.Javi's Scrawling": "Javi's Scrawling",
             "decoration.Javis Experiments Poster A": "Javi Evolution Scrawling",
@@ -607,6 +610,7 @@
             "decoration.Parazon Poster": "Parazon Poster",
             "decoration.Pedestal Prime": "Pedestal Prime",
             "decoration.Plushy Baro": "Baro Ki'teer Floof",
+            "decoration.Plushy Baro Evil": "Eskhatos Ki'teer Floof",
             "decoration.Plushy Inaros": "Inaros Floof",
             "decoration.Plushy Loid": "Loid Floof",
             "decoration.Plushy Moon Monster Common": "Vome Floof",
@@ -793,6 +797,8 @@
             "weapon.Viper Wraith": "Viper Wraith",
             "weapon.Vulkar Wraith": "Vulkar Wraith",
             "weapon.Zylok": "Zylok"
+
+
           }
         }
 
