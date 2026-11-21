@@ -4,6 +4,7 @@
     "ui.gridSize": "Grid Size",
     "mode":{
       "tasks": "Tasks",
+      "dashboard": "Dashboard",
       "mastery": "Mastery",
 
       "mastery-div":{
@@ -246,6 +247,23 @@
         "modal.mark_done": "Mark as completed",
         "modal.mark_undone": "Mark as not completed",
         "modal.remove": "Remove task",
+
+        "live.title": "Live",
+        "live.nothing": "Nothing live right now",
+        "live.unavailable": "Couldn't load live data",
+        "live.stale": "Showing saved data — couldn't refresh",
+        "live.render_error": "Couldn't display this section",
+        "live.starts_in": "Starts in",
+        "live.ends_in": "Ends in",
+        "live.level": "Lv {{min}}–{{max}}",
+        "live.events.title": "Events",
+        "live.events.count": "{{n}} event",
+        "live.events.count.plural": "{{n}} events",
+        "live.alerts.title": "Alerts",
+        "live.alerts.count": "{{n}} alert",
+        "live.alerts.count.plural": "{{n}} alerts",
+        "live.milestones": "Milestones",
+        "live.open_vendor": "Open {{vendor}} →",
         
         "rewards.group.additional": "Additional reward",
         "rewards.group.arcane": "Arcane (Infernum 6 and 13)",
@@ -1049,6 +1067,10 @@
         "model_parallel": "all currencies drop in the same mission",
         "model_sequential": "each currency needs its own missions",
         "actions_missing": "Actions not set",
+        "ended": "Ended",
+        "upcoming": "Upcoming",
+        "show_ended": "Show ended vendors ({{n}})",
+        "hide_ended": "Hide ended vendors",
 
         "u44.1.2":{
           "name": "U44.1.2: Epoch Operation: Taubound",

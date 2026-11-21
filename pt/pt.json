@@ -4,6 +4,7 @@
     "ui.gridSize": "Tamanho da Grade",
     "mode":{
       "tasks": "Tarefas",
+      "dashboard": "Dashboard",
       "mastery": "Maestria",
       "mastery-div":{
         "warframes": "Warframes",
@@ -365,7 +366,11 @@
         "The Perita Rebellion": "A Rebelião de Perita",
         "Razorback": "Armada Razorback",
         "Fomorian Sabotage": "Fomoriana",
-        "Galleon Of Ghouls": "Galeão dos Carniçais"
+        "Galleon Of Ghouls": "Galeão dos Carniçais",
+        "Epoch Operation: Taubound": "Operação Histórica: Rumo a Tau",
+        "Gift of the Lotus": "Presente da Lotus",
+        "Plague Star": "Praga Estelar",
+        "Tenno United Alert": "Alerta: Tenno Unidos"
       },
 
       "syndicate":{
@@ -773,6 +778,17 @@
         "Unlock through": "Obtido através de ",
         "Defeat the Glassmaker": "Derrote o Vidraceiro",
         "Follie's Hunt": "Caçada da Follie"
+      },
+
+      "faction":{
+          "Grineer": "Grineer",
+          "Corpus": "Corpus",
+          "Orokin": "Orokin",
+          "Narmer": "Narmer",
+          "Murmur": "Murmúrio",
+          "Sentient": "Sentientes",
+          "Infested": "Infestados",
+          "Corrupted": "Corrompidos"
       }
     }
   },
@@ -817,6 +833,23 @@
         "modal.mark_done": "Marcar como completo",
         "modal.mark_undone": "Marcar como faltante",
         "modal.remove": "Remover",
+
+        "live.title": "No momento",
+        "live.nothing": "Nada no momento",
+        "live.unavailable": "Não foi possível carregar os dados ao vivo",
+        "live.stale": "Exibindo dados salvos — não foi possível atualizar",
+        "live.render_error": "Não foi possível exibir esta seção",
+        "live.starts_in": "Começa em",
+        "live.ends_in": "Termina em",
+        "live.level": "Nível {{min}}–{{max}}",
+        "live.events.title": "Eventos",
+        "live.events.count": "{{n}} evento",
+        "live.events.count.plural": "{{n}} eventos",
+        "live.alerts.title": "Alertas",
+        "live.alerts.count": "{{n}} alerta",
+        "live.alerts.count.plural": "{{n}} alertas",
+        "live.milestones": "Metas",
+        "live.open_vendor": "Abrir {{vendor}} →",
 
         "rewards.group.additional": "Recompensa adicional",
         "rewards.group.arcane": "Arcano (Infernum 6 e 13)",
@@ -1868,6 +1901,10 @@
         "model_parallel": "todas as moedas caem na mesma missão",
         "model_sequential": "cada moeda exige suas próprias missões",
         "actions_missing": "Ações não definidas",
+        "ended": "Encerrado",
+        "upcoming": "Em breve",
+        "show_ended": "Mostrar vendedores encerrados ({{n}})",
+        "hide_ended": "Ocultar vendedores encerrados",
 
         "u44.1.2":{
           "name": "U44.1.2: Operação Histórica: Rumo a Tau",
