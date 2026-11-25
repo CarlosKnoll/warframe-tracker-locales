@@ -370,7 +370,12 @@
         "Epoch Operation: Taubound": "Operação Histórica: Rumo a Tau",
         "Gift From The Lotus": "Presente da Lotus",
         "Plague Star": "Praga Estelar",
-        "Tenno United Alert": "Alerta: Tennos Unidos"
+        "Tenno United Alert": "Alerta: Tennos Unidos",
+        "Ghoul Purge": "Expurgação Carniçal",
+
+        "description":{
+          "Ghoul Purge":"Ajude Konzu a eliminar os Carniçais das Planícies de Eidolon."
+        }
       },
 
       "syndicate":{
