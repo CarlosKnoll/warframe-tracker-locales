@@ -978,7 +978,20 @@
     "primes":{
       "ui":{
         "resurgence.countdown": "Resurgence ends in {{time}}"
-      }
+      },
+      "itemsTab": "Primes",
+      "relicFinder": {
+        "tab": "Relics",
+        "search": "Search relics or Prime items…",
+        "available": "Available",
+        "resurgence": "Resurgence",
+        "vaulted": "Vaulted",
+        "unverified": "Unverified",
+        "noMatches": "No matching relics",
+        "tryFilters": "Try changing the search.",
+        "notLoaded": "Prime data is not loaded yet",
+        "reload": "Open the Primes section again after the data finishes loading.",
+        "more": "and +{{count}} more"
       
     },
     

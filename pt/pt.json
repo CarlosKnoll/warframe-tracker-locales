@@ -1817,7 +1817,21 @@
     "primes":{
       "ui":{
         "resurgence.countdown": "Ressurgência termina em {{time}}"
-      }
+      },
+      "itemsTab": "Primes",
+        "relicFinder": {
+          "tab": "Relíquias",
+          "search": "Buscar relíquias ou itens Prime…",
+          "available": "Disponível",
+          "resurgence": "Ressurgência",
+          "vaulted": "No Cofre",
+          "unverified": "Não verificada",
+          "noMatches": "Nenhuma relíquia correspondente",
+          "tryFilters": "Tente alterar a busca.",
+          "notLoaded": "Os dados Prime ainda não foram carregados",
+          "reload": "Abra novamente a seção Primes após o carregamento dos dados.",
+          "more": "e mais {{count}}"
+        }
     },
 
     "market":{
