@@ -7,6 +7,7 @@
       "dashboard": "Dashboard",
       "mastery": "Maestria",
       "mastery-div":{
+        "all": "Todos",
         "warframes": "Warframes",
         "primaries": "Primárias",
         "secondaries": "Secundárias",
