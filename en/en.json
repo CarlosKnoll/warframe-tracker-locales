@@ -992,7 +992,7 @@
         "notLoaded": "Prime data is not loaded yet",
         "reload": "Open the Primes section again after the data finishes loading.",
         "more": "and +{{count}} more"
-      
+      }
     },
     
     "market":{
